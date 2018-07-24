@@ -8,6 +8,7 @@ h2,
 h3 {
     color: darkslategrey;
 }
-p {
+p,
+h4 {
     color: darkgrey;
 }
