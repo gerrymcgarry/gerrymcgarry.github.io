@@ -12,8 +12,13 @@ p,
 h4 {
     color: darkgrey;
 }
-.list {
-    width:200;
-    border:1;
+
+.container {
+    display: grid;
+    max-width: 400px;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+    padding: 0;
+    margin: 0;
 }
 
