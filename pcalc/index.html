@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <!-- <img src = "PocketCalculator.jpg"> -->
+    <div id = "outer-container">
+        <div id = "inner-container">
+            <div id = "screen">
+                    <h1 id="display">0</h1>
+            </div>
+            <div id = "header">
+                    <h2>Pocket Calculator</h2>
+                    </div>
+            <div id = "buttons">
+                <div class="box mem">
+                    <button type="button" class="memory">MR</button>
+                    <button type="button" class="memory">M+</button>
+                    <button type="button" class="memory">M-</button>
+                    <button type="button" class="memory">MC</button>
+                    <button type="button" class="memory" onclick="play()">K</button>
+                </div>
+                <div class="box num">
+                    <button type="button" class="function">C</button>
+                    <button type="button" class="function" id="clear">AC</button>
+                    <button type="button" class="function">%</button>
+                    <button type="button" class="function">&radic;</button>
+                    <button type="button" class="number">7</button>
+                    <button type="button" class="number">8</button>
+                    <button type="button" class="number">9</button>
+                    <button type="button" class="function" id="times">X</button>
+                    <button type="button" class="number">4</button>
+                    <button type="button" class="number">5</button>
+                    <button type="button" class="number">6</button>
+                    <button type="button" class="function" id="divide">/</button> 
+                    <button type="button" class="number">1</button>
+                    <button type="button" class="number">2</button>
+                    <button type="button" class="number">3</button>
+                    <button type="button" class="function" id="subtract">-</button>
+                    <button type="button" class="number">0</button>
+                    <button type="button" class="function">.</button>
+                    <button type="button" class="equals function" id="equals">=</button>
+                    <button type="button" class="function" id="add">+</button>   
+                </div>
+            </div>
+        </div>
+    </div>
+    <audio id="audio" src="kraftwerk.mp3" ></audio>
+    <script src ="app2.js"></script>
+</body>
+</html>
