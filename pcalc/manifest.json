@@ -3,7 +3,7 @@
   "short_name": "PocketCalc",
   "lang": "en-GB",
   "start_url": "https://gerrymcgarry.github.io/pcalc/",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#EDDF67",
   "icons": [
     {
