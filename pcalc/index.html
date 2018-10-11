@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Calculator</title>
     <link rel="stylesheet" href="normalize.css"/>
@@ -28,18 +28,28 @@
                     <h2>Pocket Calculator</h2>
                     </div>
             <div id = "buttons">
-                <div class="box mem">
-                    <button type="button" class="memory">MR</button>
-                    <button type="button" class="memory">M+</button>
-                    <button type="button" class="memory">M-</button>
-                    <button type="button" class="memory">MC</button>
-                    <button type="button" class="memory" onclick="play()">K</button>
+                <div class="box sci">
+                    <button type="button" class="scientific">MR</button>
+                    <button type="button" class="scientific">M+</button>
+                    <button type="button" class="scientific">M-</button>
+                    <button type="button" class="scientific">MC</button>
+                    <button type="button" class="scientific" onclick="play()">K</button>
+                    <button type="button" class="scientific">sin</button>
+                    <button type="button" class="scientific">cos</button>
+                    <button type="button" class="scientific">tan</button>
+                    <button type="button" class="scientific">log</button>
+                    <button type="button" class="scientific">sqr</button>
+                    <button type="button" class="scientific">pow</button>
+                    <button type="button" class="scientific">mod</button>
+                    <button type="button" class="scientific">exp</button>
+                    <button type="button" class="scientific">%</button>
+                    <button type="button" class="scientific">&radic;</button>
                 </div>
                 <div class="box num">
+                    <button type="button" class="function"><-x</button>
                     <button type="button" class="function">C</button>
                     <button type="button" class="function" id="clear">AC</button>
-                    <button type="button" class="function">%</button>
-                    <button type="button" class="function">&radic;</button>
+                    <button type="button" class="function">+/-</button>
                     <button type="button" class="number">7</button>
                     <button type="button" class="number">8</button>
                     <button type="button" class="number">9</button>
@@ -61,7 +71,7 @@
         </div>
     </div>
     <audio id="audio" src="kraftwerk.mp3" ></audio>
-    <script src ="app2.js"></script>
+    <script src ="calc.js"></script>
 </body>
 </html>
 
