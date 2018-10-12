@@ -139,84 +139,117 @@ button:active {
     margin:0vh 0;
 }
 
+/* iPad */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  { 
+    #outer-container {
+        margin: 0px;
+        height: 100vh;
+        width: 100%;
+        background-color: #EDDF67;
+    }
+
+    #inner-container {
+        margin: 2vh 8%;
+        width: 84%; 
+        background-color: #111;
+        border-radius: 35px;
+        border: solid 3px black;
+    }
+
+    #header {
+        margin:0vh 0;
+        padding:0;
+        font-size: 36px;
+    }
+    
+    button {
+        height: 70px;
+        margin: 28px;
+    }
+}
+
 /* Desktops and laptops ----------- */
+
 @media only screen  and (min-width : 1224px) {
     
-#outer-container {
-    margin-top: 0px;
-    height: 600px;
-    width: 345px;
+    #outer-container {
+        margin-top: 0px;
+        height: 600px;
+        width: 345px;
 
-}
-#inner-container {
-    margin: 10px;
-    height: 575px;
-    width: 320px; 
-    border-radius: 15px;
-    border: solid 3px black;
-}
-#header {
-    margin:0px;
-    padding:0;
-    font-size: 12px;
-    color: #EDDF67;
-}
-    
-#screen {
-    margin: 15px 10px 10px 10px;
-    background-color: #EDDF67;
-    border: solid 2px black;
-    padding: 0px 10px 10px 10px;
-    border-radius: 15px;
-    height: 60px;
-    text-align: right;
-    font-size: 18px;
-}
-
-#display {
-    margin-top:18px;
-}
-h2 {
-    /* margin:30px; */
-    padding: 8px;
-    font-size: 24px;
-}
-
-#buttons {
-        display: grid;
-        grid-template-columns: 320px;
-      }
-    
-button {
-        width: 50px;
-        height: 35px;
-        margin: 10px;
-        font-size: 24px;
-        border-radius: 6px;
-        border-width: 0 0px 0px 0;
-     }
-    
-.scientific {
-        width: 38px;
-        height: 25px;
-        font-size: 18px;
-        margin: 10px 10px;
-      }
-
-.equals {
-    border-width: 2px 2px 2px 2px;
-    border-color: black;
-}
-
-.sci {
-    grid-column: 1 / 3;
-    grid-row: 1;
-    padding:0vh 0;
-    margin:0vh;
-}
-
-.num {
-    padding:12px 0;
-    margin:0vh 0;
-}
     }
+
+    #inner-container {
+        margin: 10px;
+        height: 575px;
+        width: 320px; 
+        border-radius: 15px;
+        border: solid 3px black;
+    }
+
+    #header {
+        margin:0px;
+        padding:0;
+        font-size: 12px;
+        color: #EDDF67;
+    }
+        
+    #screen {
+        margin: 15px 10px 10px 10px;
+        background-color: #EDDF67;
+        border: solid 2px black;
+        padding: 0px 10px 10px 10px;
+        border-radius: 15px;
+        height: 60px;
+        text-align: right;
+        font-size: 18px;
+    }
+
+    #display {
+        margin-top:18px;
+    }
+
+    h2 {
+        /* margin:30px; */
+        padding: 8px;
+        font-size: 24px;
+    }
+
+    #buttons {
+            display: grid;
+            grid-template-columns: 320px;
+    }
+        
+    button {
+            width: 50px;
+            height: 35px;
+            margin: 10px;
+            font-size: 24px;
+            border-radius: 6px;
+            border-width: 0 0px 0px 0;
+    }
+        
+    .scientific {
+            width: 38px;
+            height: 25px;
+            font-size: 18px;
+            margin: 10px 10px;
+    }
+
+    .equals {
+        border-width: 2px 2px 2px 2px;
+        border-color: black;
+    }
+
+    .sci {
+        grid-column: 1 / 3;
+        grid-row: 1;
+        padding:0vh 0;
+        margin:0vh;
+    }
+
+    .num {
+        padding:12px 0;
+        margin:0vh 0;
+    }
+}
