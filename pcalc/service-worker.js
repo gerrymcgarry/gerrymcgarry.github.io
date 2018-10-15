@@ -12,7 +12,9 @@ const PRECACHE_URLS = [
   'normalize.css',
   'app.js',
   'Calculator.js',
-  'kraftwerk.mp3'
+  'kraftwerk.mp3',
+  'KraftwerkRegular.ttf',
+  'DSEG14Modern-Regular.ttf'
 ];
 
 // The install handler takes care of precaching the resources we always need.

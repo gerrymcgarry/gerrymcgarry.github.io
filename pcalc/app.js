@@ -1,9 +1,10 @@
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('service-worker.js');
 }
-  
+
 const numberButtons = document.querySelectorAll(".number");
 const functionButtons = document.querySelectorAll(".function");
+const function2Buttons = document.querySelectorAll(".function2");
 const displayScreen = document.getElementById('display');
 
 const calculator = new Calculator();
@@ -32,18 +33,21 @@ numberButtons.forEach( (el) => {
 functionButtons.forEach( (el) => {
     el.addEventListener('click', () => {
          if ( el.id == "equals" ) {
-            let method = calculator.function;
-            calculator[method+"Numbers"](parseInt(calculator.display));
+            calculator[calculator.function](parseFloat(calculator.display));
             calculator.display = calculator.firstNumber;
-        } else if ( el.id == "add" ){
-            calculator.firstNumber = parseFloat(calculator.display);
-            calculator.function = el.id;
-            console.log(calculator.function );
-            calculator.display = "";
         } else {
-            console.log(calculator.memory);
             calculator[el.id](parseInt(calculator.display));
         }
+        updateDisplay();
+    });
+});
+
+function2Buttons.forEach( (el) => {
+    el.addEventListener('click', () => {
+        calculator.firstNumber = parseFloat(calculator.display);
+        calculator.function = el.id;
+        calculator.display = "0";
+        console.log("Fun2 - " + el.id);
         updateDisplay();
     });
 });

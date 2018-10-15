@@ -7,7 +7,7 @@ class Calculator  {
         this.screen = document.getElementById('display');
     }
 
-// Buttons
+    // Single Functions
     memoryRecall() { this.display = this.memory;  updateDisplay(); };
     memoryPlus() { this.memory += parseFloat(this.display); console.log("+" + this.display);};
     memoryMinus() { this.memory -= parseFloat(this.display); };
@@ -19,32 +19,28 @@ class Calculator  {
     tan(number) { this.display = Math.round(Math.tan(number) * 10000000) / 10000000; };
     log(number) { this.display = Math.round(Math.log10(number) * 10000000) / 10000000; };
     sqr(number) { this.display = Math.round(Math.sqrt(number) * 10000000) / 10000000; };
-
-    pow(number) { this.display = Math.pow(firstNumber, number); };
-    mod() { console.log("mod"); };
-    exp() {console.log("exp");};
-    percent() {console.log("%");};
+    exp(number) { this.display = Math.round(Math.exp(number) * 10000000) / 10000000; };
 
     pi() { this.display = "3.14158926";updateDisplay();};
-
-    backspace() {console.log("delete");};
-    clear() {calculator.display = "";updateDisplay();};
+    clear() {calculator.display = "0";updateDisplay();};
     clearAll() {            
         calculator.firstNumber = 0;
         calculator.function = ""; 
-        calculator.display = "";
+        calculator.display = "0";
+        updateDisplay();
     };
+
+    // Double functions
+    multiply(number) { this.firstNumber = this.firstNumber * parseFloat(this.display); };
+    divide(number) { this.firstNumber = this.firstNumber / parseFloat(this.display); };
+    subtract(number) { this.firstNumber -= parseFloat(this.display); };
+    add(number) { this.firstNumber += parseFloat(this.display); };
+    pow() { this.firstNumber = Math.pow(this.firstNumber, parseFloat(this.display)); };
+    mod() { this.firstNumber = this.firstNumber % parseFloat(this.display); };
+
+
+    // To Do
+    percent() {console.log("%");};
+    backspace() {console.log("delete");};
     plusMinus() {console.log("+/-");};
-
-    add2() {
-        this.firstNumber = parseFloat(this.display);
-        this.function = "add";
-        this.display = "";
-    };
-
-    // Calculations
-    multiplyNumbers(number) { this.firstNumber = this.memory * number; };
-    divideNumbers(number) { this.firstNumber = this.memory / number; };
-    subtractNumbers(number) { this.firstNumber -= number; };
-    addNumbers(number) { this.firstNumber += number;console.log(this.firstNumber) };
 }
