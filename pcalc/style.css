@@ -37,7 +37,7 @@ body {
 }
 
 #header {
-    margin:2vh 0;
+    margin:0vh 0;
     padding:0;
     font-size: 48px;
     color: #EDDF67;
@@ -48,7 +48,7 @@ h2 {
 }
 
 #screen {
-    margin: 35px 50px 50px 50px;
+    margin: 0px 50px 50px 50px;
     background-color: #EDDF67;
     border: solid 2px black;
     padding: 0px 10px 10px 10px;
@@ -163,7 +163,9 @@ button:active {
         padding:0;
         font-size: 36px;
     }
-    
+    #screen {
+        margin: 0px 50px 0px 50px;
+    }
     button {
         height: 70px;
         margin: 28px;
@@ -176,13 +178,13 @@ button:active {
     
     #outer-container {
         margin-top: 0px;
-        height: 600px;
+        height: 610px;
         width: 345px;
     }
 
     #inner-container {
         margin: 10px;
-        height: 575px;
+        height: 583px;
         width: 320px; 
         border-radius: 15px;
         border: solid 3px black;
@@ -196,7 +198,7 @@ button:active {
     }
         
     #screen {
-        margin: 15px 10px 10px 10px;
+        margin: 0px 10px 10px 10px;
         background-color: #EDDF67;
         border: solid 2px black;
         padding: 0px 10px 10px 10px;
@@ -212,8 +214,8 @@ button:active {
 
     h2 {
         /* margin:30px; */
-        padding: 8px;
-        font-size: 24px;
+        padding: 0px;
+        font-size: 16px;
     }
 
     #buttons {
