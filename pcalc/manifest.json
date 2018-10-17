@@ -5,6 +5,7 @@
   "start_url": "https://gerrymcgarry.github.io/pcalc/",
   "display": "fullscreen",
   "theme_color": "#EDDF67",
+  "background_color": "#EDDF67",
   "icons": [
     {
       "src": "icon-192.png",
