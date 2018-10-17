@@ -45,11 +45,11 @@ body {
 
 h2 {
     margin:0px;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 #screen {
-    margin: 0px 10px 10px 10px;
+    margin: 0px 15px 10px 15px;
     background-color: #EDDF67;
     border: solid 2px black;
     padding: 0px 10px 10px 10px;
@@ -66,7 +66,7 @@ h2 {
 
 #buttons {
     display: grid;
-    grid-template-columns: 340px;
+    grid-template-columns: 94%;
   }
 
 /* Button Styles */
@@ -164,16 +164,35 @@ button:active {
         padding:0;
         font-size: 36px;
     }
+    h2 {
+        margin:0px;
+        font-size: 32px;
+    }
     #screen {
-        margin: 0px 50px 0px 50px;
+        margin: 0px 15px 10px 15px;
+        border: solid 2px black;
+        padding: 0px 10px 10px 10px;
+        height:95px;
+        font-size: 32px;
+    }
+    #screen {
+        margin: 0px 30px 0px 30px;
     }
     button {
-        height: 70px;
-        margin: 28px;
+        height: 60px;
+        margin: 25px;
         font-size: 48px;
+        width: 16%;
+        margin: 25px 15px 25px 15px;
     }
     .small {
-        font-size: 36px;
+        height: 40px;
+        font-size: 32px;
+        width: 12%;
+        margin: 15px 15px 5px 15px;
+    }
+    .num {
+        border-radius: 0 0 35px 35px;
     }
 }
 
@@ -225,6 +244,7 @@ button:active {
     #buttons {
         display: grid;
         grid-template-columns: 320px;
+        
     }
         
     button {
@@ -234,6 +254,7 @@ button:active {
         font-size: 24px;
         border-radius: 6px;
         border-width: 0 0px 0px 0;
+        
     }
         
     .small {
