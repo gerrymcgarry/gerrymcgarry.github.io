@@ -18,7 +18,7 @@ function initMap() {
         center: markers[0].coords
     });
 
-    var src = 'https://gerrymcgarry.github.io/maps/doc.kml';
+    var src = 'https://gerrymcgarry.github.io/maps/tfl.kml';
     var kmlLayer = new google.maps.KmlLayer(src, {
       suppressInfoWindows: true,
       preserveViewport: false,
