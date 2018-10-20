@@ -5,6 +5,7 @@
   "start_url": "https://gerrymcgarry.github.io/tfl-rail/",
   "display": "fullscreen",
   "theme_color": "#180CFF",
+  "background_color": "#180CFF",
   "icons": [
     {
       "src": "icon-192.png",
