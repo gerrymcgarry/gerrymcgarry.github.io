@@ -1,3 +1,6 @@
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('service-worker.js');
+}
 
 function initMap() {
     var markers =  [
