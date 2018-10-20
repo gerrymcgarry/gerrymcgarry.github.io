@@ -11,7 +11,6 @@ const PRECACHE_URLS = [
   'style.css',
   'normalize.css',
   'app.js',
-  'Calculator.js',
   'London-Tube.ttf'
 ];
 
