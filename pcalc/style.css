@@ -91,11 +91,11 @@ button:active {
   } 
 
 .small {
-    width: 14%;
+    width: 11%;
     height: 20px;
     font-size: 16px;
     text-align: center;
-    margin: 0px 5px 15px 5px;
+    margin: 0px 3% 15px 3%;
     color: black;
     background-color: #EDDF67;
     font-family: "Kraftwerk Regular";
