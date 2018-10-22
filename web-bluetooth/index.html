@@ -1,0 +1,59 @@
+<html>
+<head>
+<script>
+function discoverDevicesOrDisconnect() {
+console.log("discoverDevicesOrDisconnect");
+}
+function discoverDevices() {
+console.log("discoverDevices");
+}
+function readModelNumber() {
+console.log("readModelNumber");
+}
+function randomLEDs() {
+console.log("randomLEDs");
+}
+function toggleAccelerometerNotifications() {
+console.log("toggleAccelerometerNotifications");
+}
+</script>
+</head>
+<body>
+<h1>Web Bluetooth</h1>
+<h2>Status</h2>
+<table border="1">
+<tr>
+<td>
+<b>Connected</b>
+</td>
+<td>
+<b>Service Discovery Completed</b>
+</td>
+<td>
+<b>Notifications</b>
+</td>
+</tr>
+<tr>
+<td id="status_connected">false</td>
+<td id="status_discovered">false</td>
+<td id="status_notifications">false</td>
+</tr>
+</table>
+<h2>Device Discovery and Connection</h2>
+<button id="btn_scan" onclick=" discoverDevicesOrDisconnect()">Discover
+Devices</button>
+<hr>
+<h2>Reading and Writing</h2>
+<h3>Read Characteristic - Model Number</h3>
+<button id="btn_read" onclick="readModelNumber()">Read Model
+Number</button>
+<div id="model_number"></div>
+<h3>Write Characteristic - Randomise Lights</h3>
+<button id="btn_write" onclick="randomLEDs()">Randomise LEDs</button>
+<hr>
+<h2>Notifications - Accelerometer X, Y, Z</h2>
+<button id="btn_notify"
+onclick="toggleAccelerometerNotifications()">Toggle Notifications</button>
+<div id="accelerometer_data"></div>
+</body>
+</html>
