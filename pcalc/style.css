@@ -81,7 +81,7 @@ button {
     text-align: center;
     font-size: 18px;
     border-radius: 6px;
-    border-width: 0 0px 0px 0;
+    border-width: 0;
     background-color: #111;
     font-family: "Kraftwerk Regular";
  }
