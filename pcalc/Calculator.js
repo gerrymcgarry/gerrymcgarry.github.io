@@ -24,7 +24,7 @@ class Calculator  {
     memoryPlus() { this.memory += parseFloat(this.display); };
     memoryMinus() { this.memory -= parseFloat(this.display); };
     memoryClear() { this.memory = 0;};
-    play() { window.location.reload(true); document.getElementById("audio").play(); };
+    play() {  document.getElementById("audio").play(); window.location.reload(true); };
 
     sin(number) { this.display = Math.round(Math.sin(number*Math.PI/180) * 10000000) / 10000000; };
     cos(number) { this.display = Math.round(Math.cos(number*Math.PI/180) * 10000000) / 10000000; };
