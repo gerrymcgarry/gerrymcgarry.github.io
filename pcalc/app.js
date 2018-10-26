@@ -6,7 +6,7 @@ const calculator = new Calculator();
 
 const numberButtons = document.querySelectorAll(".number");
 const functionButtons = document.querySelectorAll(".function");
-const function2Buttons = document.querySelectorAll(".function2");
+const operatorButtons = document.querySelectorAll(".operator");
 const displayScreen = document.getElementById('display');
 
 numberButtons.forEach( (el) => {
@@ -20,7 +20,7 @@ functionButtons.forEach( (el) => {
     });
 });
 
-function2Buttons.forEach( (el) => {
+operatorButtons.forEach( (el) => {
     el.addEventListener('click', () => {
         calculator.firstNumber = parseFloat(calculator.display);
         calculator.function = el.id;
