@@ -1,0 +1,129 @@
+/* Fonts */
+@font-face {
+    font-family: "Kraftwerk Regular";
+    src: url(KraftwerkRegular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "DSEG14 Modern";
+    src: url(DSEG14Modern-Regular.ttf) format("truetype");
+}
+
+body {
+    /* display: grid; */
+    text-align: center;
+    margin: 0px;
+    justify-content: center;
+}
+  
+.wrapper {
+    display: grid;
+    grid-template-columns: 100vw;
+    justify-content: center;
+    background-color: #EDDF67;
+    color: #111;
+    height: 100vh;
+    width: 100vw;
+    margin: auto;
+}
+  
+  .box {
+      /* display: flex;
+      flex-wrap: wrap; */
+    background-color: #111;
+    color: #fff;
+    /* padding: 20px; */
+    font-size: 3rem;
+    width:92%;
+    text-align: center;
+    border: solid 0.3vh #111;
+    /* margin: 5vh; */
+  }
+
+  .screen-block {
+    height: 50vh;
+    margin: 3vh 4% 0vh 4%;
+    border-radius: 2vh 2vh 0px 0px;
+}
+
+  .num-buttons-block {
+    height: 43vh;
+    margin: 0 4% 3vh 4%;
+    background-color: #EDDF67;
+    border-radius: 0px 0px 2vh 2vh;
+    padding: 1vh 0 0 0;
+}
+  .screen {
+    height: 14vh;
+    background-color: #EDDF67;
+    margin: 3vh 6% 0vh 6%;
+    padding: 0%;
+    text-align: right;
+    border-radius: 2vh 2vh 2vh 2vh;
+  }
+
+h2 {
+    margin-top:2vh;
+    margin-bottom: 1.5vh;
+    color: #EDDF67;
+    font-family: "Kraftwerk Regular";
+    font-size: 4vh;
+}
+h1 {
+    margin: 0;
+    font-size: 9.5vw;
+    color: #111;
+    font-family: "DSEG14 Modern";
+    line-height: 14vh;
+    padding: 0%;
+}
+  button {
+    width: 18vw;
+    height: 6vh;
+    margin: 1vh 1vw;
+    padding: 0vh;
+    color: #EDDF67;
+    text-align: center;
+    font-size: 4vh;
+    border-radius: 1vh;
+    border-width: 0;
+    background-color: #111;
+    font-family: "Kraftwerk Regular";
+ }
+ .small {
+    width: 12vw;
+    height: 4vh;
+    font-size: 4vmin;
+    margin: 1vh 2vw 1vh 2vw;
+    color: black;
+    background-color: #EDDF67;
+    font-family: "Kraftwerk Regular";
+}
+ .equals {
+    color: black;
+    background-color: #EDDF67;
+    border-width: 0.4vh;
+    border-color: black;
+}
+  @media only screen  and (min-width : 1224px) {
+
+    .wrapper {
+        width: 58vh;
+        grid-template-columns: 55vh;
+        justify-content: center;
+    }
+    button {
+        width: 8vh;
+    }
+    .small {
+        width: 6vh;
+        font-size: 3vh; 
+        margin: 1vh 1vh 1vh 1vh;
+    }
+    h1 {
+        font-size: 5vh;
+    }
+    h2 {
+
+    }
+  }
