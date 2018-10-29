@@ -1,7 +1,7 @@
 // Names of the two caches used in this version of the service worker.
 // Change to v2, etc. when you update any of the local resources, which will
 // in turn trigger the install event again.
-const PRECACHE = 'precache-v7';
+const PRECACHE = 'precache-v8';
 const RUNTIME = 'runtime';
 
 // A list of local resources we always want to be cached.
@@ -11,10 +11,9 @@ const PRECACHE_URLS = [
   'style.css',
   'normalize.css',
   'app.js',
-  'Calculator.js',
-  'kraftwerk.mp3',
-  'KraftwerkRegular.ttf',
-  'DSEG14Modern-Regular.ttf'
+  'assets/kraftwerk.mp3',
+  'assets/KraftwerkRegular.ttf',
+  'assets/DSEG14Modern-Regular.ttf'
 ];
 
 // The install handler takes care of precaching the resources we always need.
