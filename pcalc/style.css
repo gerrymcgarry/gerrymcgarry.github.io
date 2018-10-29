@@ -13,6 +13,7 @@ body {
     text-align: center;
     margin: 0px;
     justify-content: center;
+    overflow-x: hidden;
 }
   
 .wrapper {
