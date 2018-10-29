@@ -1,12 +1,12 @@
 /* Fonts */
 @font-face {
     font-family: "Kraftwerk Regular";
-    src: url(KraftwerkRegular.ttf) format("truetype");
+    src: url(assets/KraftwerkRegular.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "DSEG14 Modern";
-    src: url(DSEG14Modern-Regular.ttf) format("truetype");
+    src: url(assets/DSEG14Modern-Regular.ttf) format("truetype");
 }
 
 body {
