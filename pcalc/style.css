@@ -55,7 +55,7 @@ body {
 }
 
 .screen {
-    height: 14vh;
+    height: 10vh;
     background-color: #EDDF67;
     margin: 3vh 6% 0vh 6%;
     padding: 0%;
@@ -65,8 +65,8 @@ body {
   }
 
 h2 {
-    margin-top:2vh;
-    margin-bottom: 1.5vh;
+    margin-top:3.5vh;
+    margin-bottom: 2.5vh;
     color: #EDDF67;
     font-family: "Kraftwerk Regular";
     font-size: 4vh;
@@ -78,7 +78,7 @@ h1 {
     font-size: 9.5vw;
     color: #111;
     font-family: "DSEG14 Modern";
-    line-height: 14vh;
+    line-height: 10vh;
     padding: 0%;
 }
 
