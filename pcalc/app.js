@@ -13,18 +13,23 @@ class Calculator {
     this.functionButtons = document.querySelectorAll('.function');
     this.operatorButtons = document.querySelectorAll('.operator');
     this.editButtons = document.querySelectorAll('.edit');
-    this.displayScreen = document.getElementById('display');
   }
 
   updateDisplay(value) {
     if (value) {
       this.display = value;
     }
-    this.displayScreen.textContent = this.display;
+
+    console.log(this.display.length);
+    if (this.display.length > 12) {
+      console.log(this.display);
+      this.display = this.display.slice(0,12);
+    }
+    this.screen.textContent = this.display;
   }
 
   equals() {
-    this.display = this[this.function](parseFloat(this.display));
+    this.display = this[this.function](parseFloat(this.display)).toString();
     this.firstNumber = 0;
     this.function = '';
     this.answer = true;
@@ -41,11 +46,11 @@ class Calculator {
 
   play() { document.getElementById('audio').play(); }
 
-  sin(number) { this.display = Math.sin(number * Math.PI / 180).toPrecision(9); }
+  sin(number) { this.display = parseFloat(Math.sin(number * Math.PI / 180).toPrecision(9)).toString(); }
 
-  cos(number) { this.display = Math.cos(number * Math.PI / 180).toPrecision(9); }
+  cos(number) { this.display = parseFloat(Math.cos(number * Math.PI / 180).toPrecision(9)).toString(); }
 
-  tan(number) { this.display = Math.tan(number * Math.PI / 180).toPrecision(9); }
+  tan(number) { this.display = parseFloat(Math.tan(number * Math.PI / 180).toPrecision(9)).toString(); }
 
   asin(number) { this.display = Math.round(Math.asin(number) * (180 / Math.PI) * 10000000) / 10000000; }
 
@@ -61,17 +66,17 @@ class Calculator {
 
   exp(number) { this.display = Math.round(Math.exp(number) * 10000000) / 10000000; }
 
-  percent() { this.display = Math.round(this.display * 100000) / 10000000; }
+  percent() { this.display = Math.round(this.display * 10000000) / 1000000000; }
 
   fac(number) {
     if (number === 0 || number === 1) { return 1; }
     for (let i = number - 1; i >= 1; i--) {
       number *= i;
     }
-    this.display = number;
+    this.display = number.toString();
   }
 
-  pi() { this.updateDisplay('3.14158926'); }
+  pi() { this.updateDisplay('3.141589265'); }
 
   backspace() {
     if (this.display.length !== 1) {
