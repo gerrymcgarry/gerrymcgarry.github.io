@@ -1,0 +1,44 @@
+/* Fonts */
+@font-face {
+    font-family: "Kraftwerk Regular";
+    src: url(calc/assets/KraftwerkRegular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "DSEG14 Modern";
+    src: url(calc/assets/DSEG14Modern-Regular.ttf) format("truetype");
+}
+
+body {
+    text-align: center;
+    margin: 0px;
+    justify-content: center;
+    background-image: url("background.jpg");
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+  
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    /* background-color: #eee; */
+    color: #111;
+    /* height: 100vh; */
+    width: 96vw;
+    margin: 4vh 2vw 10vh 2vw;
+}
+.icon {
+    width: 22vw;
+
+
+    margin: 1vw;
+
+}
+a {
+    font-size: 2rem;
+    color: black;
+    font-family: "Helvetica";
+    text-decoration: none;
+}

@@ -21,7 +21,7 @@ function initMap() {
         center: markers[0].coords
     });
 
-    var src = 'https://gerrymcgarry.github.io/maps/tfl.kml';
+    var src = 'https://gerrymcgarry.github.io/tfl-rail/tfl.kml';
     var kmlLayer = new google.maps.KmlLayer(src, {
       suppressInfoWindows: true,
       preserveViewport: false,
@@ -34,9 +34,23 @@ function initMap() {
         testimonial.innerHTML = content;
       });
 
-    for ( var i = 0; i < markers.length; i++) {
-        addMarker(markers[i]);
-    }
+      var src2 = 'http://data.tfl.gov.uk/tfl/syndication/feeds/stations.kml?app_id=53b93a4d&app_key=e8552080fd429b2e9b8971c4b0b21b37';
+      var tflLayer = new google.maps.KmlLayer(src2, {
+        suppressInfoWindows: true,
+        preserveViewport: false,
+        map: map
+      });
+  
+    //   tflLayer.addListener('click', function(event) {
+    //       var content = event.featureData.infoWindowHtml;
+    //       var testimonial = document.getElementById('capture');
+    //       testimonial.innerHTML = content;
+    //     });
+
+
+    // for ( var i = 0; i < markers.length; i++) {
+    //     addMarker(markers[i]);
+    // }
 
     function addMarker(props) {
 
@@ -58,5 +72,3 @@ function initMap() {
         }
     }
 }
-
-

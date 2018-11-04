@@ -2,35 +2,25 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>2015.kmz</name>
-	<Style id="sn___ge-lu-sm01111">
+	<Style id="sn___ge-lu-sm01510">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
+			<color>ff7f00aa</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn___ge-lu-sm04514">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00404</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01117</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm0111">
+	<Style id="sn___ge-lu-sm0042">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
+			<color>ffff55ff</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -47,124 +37,17 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm00201">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7f00aa</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_011004111">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_011003205</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0110003105</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin106">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffffff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ylw-pushpin60000000">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin600020</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ylw-pushpin6000402</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="sn_ge-lu-sm_011602">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_01160000</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0116210</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm004060">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0110003106">
-		<IconStyle id="khIconStyle1538">
+	<Style id="sn_ge-lu-sm_0105">
+		<IconStyle id="khIconStyle1546">
 			<Icon>
 				<href>files/ge-lu-sm_01.PNG</href>
 			</Icon>
 		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
+		<LineStyle id="khLineStyle1549">
+			<color>ffffaa00</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin131">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin106</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin026</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm00403">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm01710040">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff00aa00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_01100411010">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_011003201</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_01100031040</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="sn___ge-lu-sm0020">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
@@ -176,41 +59,40 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm00401">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_0110041">
+	<StyleMap id="sn___ge-lu-sm04500">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_0110033</styleUrl>
+			<styleUrl>#sn___ge-lu-sm00410</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_01100020</styleUrl>
+			<styleUrl>#sn___ge-lu-sm01100</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn___ge-lu-sm0020100">
-		<IconStyle id="khIconStyle1523">
+	<Style id="sn_ge-lu-sm_01160000">
+		<IconStyle id="khIconStyle1513">
 			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
+				<href>files/ge-lu-sm_01.PNG</href>
 			</Icon>
 		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7f00aa</color>
+		<LineStyle id="khLineStyle1516">
+			<color>ffbebebe</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="s_ylw-pushpin61102">
+	<StyleMap id="sn___ge-lu-sm04522">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm0042</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm0113</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl8211110">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -218,68 +100,6 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff00aaff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_011004115">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_011003203</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0110003101</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm011">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ffff55ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm04523">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm0043</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm0114</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin1002">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin021</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0071</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="sn_ge-lu-sm_0100">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_0105</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0102</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm00405">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -294,28 +114,38 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn___ge-lu-sm0440101">
+	<StyleMap id="sn_ge-lu-sm_01601">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00201</styleUrl>
+			<styleUrl>#sn_ge-lu-sm_01602102</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm015102</styleUrl>
+			<styleUrl>#sn_ge-lu-sm_0160101</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ge-lu-sm_01602101">
-		<IconStyle id="khIconStyle1530">
+	<StyleMap id="m_ylw-pushpin10003020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin611020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl8211110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ge-lu-sm_0110003106">
+		<IconStyle id="khIconStyle1538">
 			<Icon>
 				<href>files/ge-lu-sm_01.PNG</href>
 			</Icon>
 		</IconStyle>
-		<LineStyle id="khLineStyle1533">
-			<color>ff000000</color>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm015100">
+	<Style id="sn___ge-lu-sm00201">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
@@ -326,233 +156,14 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin20301">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin000040</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0301</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin210002101">
-		<LineStyle>
-			<color>ffb35d7a</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_011201">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_011204</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0112000</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin700101">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin210002101</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin501011001</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin2030">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin00004</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin03010</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin05">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm00410">
+	<Style id="sn___ge-lu-sm00912100">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_icon63110110">
-		<IconStyle id="khIconStyle1895">
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1898">
-			<color>ff0055aa</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_01100411">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_011003204</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0110003103</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="sn___ge-lu-sm04510">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00407</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01116</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin1000302">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin61102</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl82111100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="sn___ge-lu-sm0440">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm0020</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01511</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin61101">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00aaff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0110003101">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin6000201">
-		<LineStyle id="khLineStyle1476">
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin000040">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffffff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl1310">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_0160">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_01602101</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0160100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="sn___ge-lu-sm0412">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00912100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm017100400</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_01100320110">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0112000">
-		<IconStyle id="khIconStyle1554">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1557">
-			<color>ffc1cb89</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_011204">
-		<IconStyle id="khIconStyle1554">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1557">
-			<color>ffc1cb89</color>
+			<color>ff00aa00</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -567,62 +178,7 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn_ge-lu-sm_01602">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_01602100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_016010</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="sn_ge-lu-sm_01601">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_01602102</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0160101</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_01602102">
-		<IconStyle id="khIconStyle1530">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1533">
-			<color>ff000000</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm01110">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0210">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffffff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_011003205">
+	<Style id="sn_ge-lu-sm_0110033">
 		<IconStyle id="khIconStyle1538">
 			<Icon>
 				<href>files/ge-lu-sm_01.PNG</href>
@@ -633,70 +189,31 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_icon63110141">
-		<IconStyle id="khIconStyle1895">
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1898">
-			<color>ff0055aa</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm04500">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00410</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_016010">
-		<IconStyle id="khIconStyle1530">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1533">
-			<color>ff000000</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm04515">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm004020</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01111</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="sn___ge-lu-sm04520">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm0041</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm011</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm0020111">
+	<Style id="sn___ge-lu-sm01100">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle id="khLineStyle1526">
-			<color>ff7f00aa</color>
+			<color>ff7fffff</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm01100">
+	<Style id="sh_ylw-pushpin0301">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm004020">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
@@ -720,34 +237,46 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn___ge-lu-sm041200">
+	<StyleMap id="sn_ge-lu-sm_01100420">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm0091210</styleUrl>
+			<styleUrl>#sn_ge-lu-sm_0110031</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01710040</styleUrl>
+			<styleUrl>#sn_ge-lu-sm_0110001</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="sn_ylw-pushpin6000001">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin60002100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ylw-pushpin6000401</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm01510">
+	<Style id="sn_ge-lu-sm_011003200">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm01114">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle id="khLineStyle1526">
-			<color>ff7f00aa</color>
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm01113">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -762,203 +291,14 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn_ge-lu-sm_011004112">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_011003200</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_01100031000</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_011003203">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin6000400">
-		<LineStyle id="khLineStyle1476">
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_01100400">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_0110030</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0110003</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin10003020">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin611020</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl8211110</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin1000">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0210</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin007</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin611020">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00aaff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_01100031000">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_icon63110100000">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_icon63110140</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_icon631101100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_01100020">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_011003202">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin00004">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffffff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm01112">
+	<Style id="sn___ge-lu-sm017100400">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin501011001">
-		<IconStyle>
-			<scale>1.2</scale>
-		</IconStyle>
-		<LineStyle>
-			<color>ffb35d7a</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0160101">
-		<IconStyle id="khIconStyle1530">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1533">
-			<color>ff000000</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ylw-pushpin6000002">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin6000201</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ylw-pushpin6000400</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_01100031040">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm00404">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0110003102">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
+			<color>ff00aa00</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -973,18 +313,49 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_icon63110140">
-		<IconStyle id="khIconStyle1895">
+	<Style id="sn_ge-lu-sm_011003202">
+		<IconStyle id="khIconStyle1538">
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+				<href>files/ge-lu-sm_01.PNG</href>
 			</Icon>
 		</IconStyle>
-		<LineStyle id="khLineStyle1898">
-			<color>ff0055aa</color>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm0112">
+	<Style id="sn___ge-lu-sm011">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ffff55ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn_ge-lu-sm_011004111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_011003205</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0110003105</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_ge-lu-sm_011004115">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_011003203</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0110003101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm00403">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
@@ -995,23 +366,79 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn___ge-lu-sm04518">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00408</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01112</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin60002100">
+	<Style id="sn_ylw-pushpin6000201">
 		<LineStyle id="khLineStyle1476">
 			<color>ff0000ff</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin0300">
+	<Style id="sn_ge-lu-sm_0110030">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm0041">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ffff55ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon63110110">
+		<IconStyle id="khIconStyle1895">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1898">
+			<color>ff0055aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm0110">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ffff55ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_0110003101">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_01602101">
+		<IconStyle id="khIconStyle1530">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1533">
+			<color>ff000000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin026">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -1021,6 +448,308 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_01100320110">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm004000">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2030">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00004</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin03010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm01112">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_011003203">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon63110141">
+		<IconStyle id="khIconStyle1895">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1898">
+			<color>ff0055aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_01602102">
+		<IconStyle id="khIconStyle1530">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1533">
+			<color>ff000000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl82111100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_0110001">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin05">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon631101100">
+		<IconStyle id="khIconStyle1895">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1898">
+			<color>ff0055aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn_ylw-pushpin6000002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6000201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ylw-pushpin6000400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin03010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm04401">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm0020111</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm015100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn___ge-lu-sm041200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm0091210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01710040</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm015102">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7f00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_01100020">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn_ge-lu-sm_0160">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_01602101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0160100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ge-lu-sm_0110003102">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin600020">
+		<LineStyle id="khLineStyle1476">
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1000300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin61101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl82111000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_ge-lu-sm_011602">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_01160000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0116210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm00405">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7001010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin210002101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin501011001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_ge-lu-sm_01100411010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_011003201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_01100031040</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm0114">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ffff55ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm00410">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin61101">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -1037,60 +766,7 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm01511">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7f00aa</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm017100400">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff00aa00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0105">
-		<IconStyle id="khIconStyle1546">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1549">
-			<color>ffffaa00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm045120">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm004060</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01113</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="sn_ge-lu-sm_01100420">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_0110031</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0110001</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm01116">
+	<Style id="sn___ge-lu-sm0111">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
@@ -1101,82 +777,19 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn___ge-lu-sm04522">
+	<StyleMap id="sn_ylw-pushpin60000000">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm0042</styleUrl>
+			<styleUrl>#sn_ylw-pushpin600020</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm0113</styleUrl>
+			<styleUrl>#sn_ylw-pushpin6000402</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin201">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin05</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl1310</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_0110001">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_011004114">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_01100320110</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0110003106</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm01113">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_011003201">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn_ge-lu-sm_011004113">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ge-lu-sm_011003202</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_ge-lu-sm_0110003102</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin0301">
+	<Style id="sn_ylw-pushpin00004">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -1198,18 +811,505 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ge-lu-sm_01160000">
-		<IconStyle id="khIconStyle1513">
+	<Style id="sn_ylw-pushpin6000400">
+		<LineStyle id="khLineStyle1476">
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm04515">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm004020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_ge-lu-sm_01100400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_0110030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0110003</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ge-lu-sm_0110003105">
+		<IconStyle id="khIconStyle1538">
 			<Icon>
 				<href>files/ge-lu-sm_01.PNG</href>
 			</Icon>
 		</IconStyle>
-		<LineStyle id="khLineStyle1516">
-			<color>ffbebebe</color>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm01114">
+	<StyleMap id="sn_ge-lu-sm_011004113">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_011003202</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0110003102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm004">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ffff55ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn_ge-lu-sm_011201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_011204</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0112000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn___ge-lu-sm04516">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm00401</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01115</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin60002100">
+		<LineStyle id="khLineStyle1476">
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm04400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm00200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm0151</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn___ge-lu-sm04511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm00405</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm01710040">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff00aa00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_0102">
+		<IconStyle id="khIconStyle1546">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1549">
+			<color>ffffaa00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn_icon63110100000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon63110140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_icon631101100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ge-lu-sm_011003204">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm0020100">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7f00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn_ge-lu-sm_0110041">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_0110033</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_01100020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn___ge-lu-sm04517">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm00403</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm0111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_ge-lu-sm_01602">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_01602100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_016010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ge-lu-sm_0110003">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm00200">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7f00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm004060">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm04510">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm00407</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01116</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0071">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_011003201">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin501011001">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb35d7a</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn_icon63110100001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon63110141</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_icon63110110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm0020111">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7f00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm00408">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_011003205">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn_ge-lu-sm_0100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_0105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1000302">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin61102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl82111100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin210002101">
+		<LineStyle>
+			<color>ffb35d7a</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0210">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_0160101">
+		<IconStyle id="khIconStyle1530">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1533">
+			<color>ff000000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin021</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0071</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn___ge-lu-sm04521">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm004</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm0110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin20301">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin000040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0301</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm0112">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin61102">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin106">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm00404">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm0044">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm01110">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn___ge-lu-sm00401">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin007</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn___ge-lu-sm0412">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm00912100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm017100400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_ge-lu-sm_01100411">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_011003204</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_0110003103</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm01116">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
@@ -1231,7 +1331,20 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ge-lu-sm_0110030">
+	<Style id="s_ylw-pushpin_hl1310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7fffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_0110003103">
 		<IconStyle id="khIconStyle1538">
 			<Icon>
 				<href>files/ge-lu-sm_01.PNG</href>
@@ -1242,7 +1355,121 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ge-lu-sm_0110003105">
+	<StyleMap id="sn___ge-lu-sm0440101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm00201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm015102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin131">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin106</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin026</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm015100">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7f00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6000401">
+		<LineStyle id="khLineStyle1476">
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin611020">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm04513">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm004000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01114</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin000040">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm044012">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm0020100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm0151">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7f00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2031">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin05</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ge-lu-sm_01100031000">
 		<IconStyle id="khIconStyle1538">
 			<Icon>
 				<href>files/ge-lu-sm_01.PNG</href>
@@ -1250,6 +1477,37 @@
 		</IconStyle>
 		<LineStyle id="khLineStyle1541">
 			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm04520">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm0041</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn___ge-lu-sm045120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm004060</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01113</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ge-lu-sm_0112000">
+		<IconStyle id="khIconStyle1554">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1557">
+			<color>ffc1cb89</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -1264,140 +1522,24 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm0041">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ffff55ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm00200">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7f00aa</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm004020">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin6000402">
-		<LineStyle id="khLineStyle1476">
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm0452">
+	<StyleMap id="sn_ge-lu-sm_011004114">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm0044</styleUrl>
+			<styleUrl>#sn_ge-lu-sm_01100320110</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm0112</styleUrl>
+			<styleUrl>#sn_ge-lu-sm_0110003106</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ge-lu-sm_0110003103">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_icon631101100">
-		<IconStyle id="khIconStyle1895">
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1898">
-			<color>ff0055aa</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin600020">
-		<LineStyle id="khLineStyle1476">
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm0044">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm0110">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ffff55ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin2031">
+	<StyleMap id="sn___ge-lu-sm04514">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin00000</styleUrl>
+			<styleUrl>#sn___ge-lu-sm00404</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0300</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm004000">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin6000401">
-		<LineStyle id="khLineStyle1476">
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin1000300">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin61101</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl82111000</styleUrl>
+			<styleUrl>#sn___ge-lu-sm01117</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_ylw-pushpin00000">
@@ -1413,18 +1555,38 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm015102">
-		<IconStyle id="khIconStyle1523">
+	<StyleMap id="sn_ylw-pushpin6000001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin60002100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ylw-pushpin6000401</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn___ge-lu-sm0452">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm0044</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm0112</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ge-lu-sm_011204">
+		<IconStyle id="khIconStyle1554">
 			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
+				<href>files/ge-lu-sm_01.PNG</href>
 			</Icon>
 		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7f00aa</color>
+		<LineStyle id="khLineStyle1557">
+			<color>ffc1cb89</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin026">
+	<Style id="sh_ylw-pushpin0300">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -1437,16 +1599,17 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn___ge-lu-sm04521">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm004</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm0110</styleUrl>
-		</Pair>
-	</StyleMap>
+	<Style id="sn___ge-lu-sm01511">
+		<IconStyle id="khIconStyle1523">
+			<Icon>
+				<href>files/__ge-lu-sm.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1526">
+			<color>ff7f00aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
 	<Style id="sn___ge-lu-sm01115">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
@@ -1455,194 +1618,6 @@
 		</IconStyle>
 		<LineStyle id="khLineStyle1526">
 			<color>ff7fffff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_011003204">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0110003">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm0042">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ffff55ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin0071">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffffff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0110031">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm044012">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm0020100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01510</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin_hl8211110">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00aaff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm04401">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm0020111</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm015100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_011003200">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn___ge-lu-sm004">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ffff55ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm04517">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00403</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm0111</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm0151">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff7f00aa</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm04400">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00200</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm0151</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn___ge-lu-sm00912100">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ff00aa00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ge-lu-sm_0110033">
-		<IconStyle id="khIconStyle1538">
-			<Icon>
-				<href>files/ge-lu-sm_01.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1541">
-			<color>ff732d00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm04516">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00401</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01115</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin_hl82111100">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff00aaff</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -1657,72 +1632,87 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="sn_icon63110100001">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_icon63110141</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn_icon63110110</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ylw-pushpin03010">
-		<IconStyle>
-			<scale>1.3</scale>
+	<Style id="sn_icon63110140">
+		<IconStyle id="khIconStyle1895">
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
 			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<LineStyle>
-			<color>ffffff00</color>
+		<LineStyle id="khLineStyle1898">
+			<color>ff0055aa</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm0114">
-		<IconStyle id="khIconStyle1523">
-			<Icon>
-				<href>files/__ge-lu-sm.PNG</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle1526">
-			<color>ffff55ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="sn___ge-lu-sm04513">
+	<StyleMap id="sn___ge-lu-sm04518">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm004000</styleUrl>
+			<styleUrl>#sn___ge-lu-sm00408</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01114</styleUrl>
+			<styleUrl>#sn___ge-lu-sm01112</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="sn___ge-lu-sm04511">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn___ge-lu-sm00405</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sn___ge-lu-sm01110</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ge-lu-sm_0102">
-		<IconStyle id="khIconStyle1546">
+	<Style id="sn_ge-lu-sm_016010">
+		<IconStyle id="khIconStyle1530">
 			<Icon>
 				<href>files/ge-lu-sm_01.PNG</href>
 			</Icon>
 		</IconStyle>
-		<LineStyle id="khLineStyle1549">
-			<color>ffffaa00</color>
+		<LineStyle id="khLineStyle1533">
+			<color>ff000000</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn___ge-lu-sm00408">
+	<Style id="sn_ge-lu-sm_01100031040">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ge-lu-sm_0110031">
+		<IconStyle id="khIconStyle1538">
+			<Icon>
+				<href>files/ge-lu-sm_01.PNG</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle1541">
+			<color>ff732d00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm04523">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm0043</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm0114</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6000402">
+		<LineStyle id="khLineStyle1476">
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="sn___ge-lu-sm0440">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn___ge-lu-sm0020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn___ge-lu-sm01511</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn___ge-lu-sm01111">
 		<IconStyle id="khIconStyle1523">
 			<Icon>
 				<href>files/__ge-lu-sm.PNG</href>
@@ -1733,9 +1723,18 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
+	<StyleMap id="sn_ge-lu-sm_011004112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ge-lu-sm_011003200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ge-lu-sm_01100031000</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Folder>
 		<name>2015</name>
-		<open>1</open>
 		<Folder>
 			<name>DLR</name>
 			<Placemark>
@@ -3045,7 +3044,7 @@
 				<name>Line 1</name>
 				<Placemark>
 					<name>Stratford - Bethnal Green</name>
-					<styleUrl>#msn_ylw-pushpin700101</styleUrl>
+					<styleUrl>#msn_ylw-pushpin7001010</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<altitudeMode>relativeToGround</altitudeMode>
@@ -3065,7 +3064,7 @@
 					</Style>
 					<Placemark>
 						<name>Heathrow 4</name>
-						<styleUrl>#msn_ylw-pushpin700101</styleUrl>
+						<styleUrl>#msn_ylw-pushpin7001010</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
 							<altitudeMode>relativeToGround</altitudeMode>
@@ -3076,7 +3075,7 @@
 					</Placemark>
 					<Placemark>
 						<name>Maidenhead</name>
-						<styleUrl>#msn_ylw-pushpin700101</styleUrl>
+						<styleUrl>#msn_ylw-pushpin7001010</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
 							<altitudeMode>relativeToGround</altitudeMode>
@@ -3088,7 +3087,7 @@
 				</Folder>
 				<Placemark>
 					<name>Liverpool St</name>
-					<styleUrl>#msn_ylw-pushpin700101</styleUrl>
+					<styleUrl>#msn_ylw-pushpin7001010</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -3098,7 +3097,7 @@
 				</Placemark>
 				<Placemark>
 					<name>Shenfield</name>
-					<styleUrl>#msn_ylw-pushpin700101</styleUrl>
+					<styleUrl>#msn_ylw-pushpin7001010</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
