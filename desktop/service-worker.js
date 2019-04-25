@@ -10,8 +10,7 @@ const PRECACHE_URLS = [
   './', 
   'style.css',
   'normalize.css',
-  'app.js',
-  'London-Tube.ttf'
+  'app.js'
 ];
 
 // The install handler takes care of precaching the resources we always need.
