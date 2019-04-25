@@ -1,8 +1,8 @@
 {
-  "name": "TfL Rail Guide",
-  "short_name": "TfLRail",
+  "name": "Desktop",
+  "short_name": "Desktop",
   "lang": "en-GB",
-  "start_url": "https://gerrymcgarry.github.io/tfl-rail/",
+  "start_url": "https://gerrymcgarry.github.io/desktop/",
   "display": "fullscreen",
   "theme_color": "#180CFF",
   "background_color": "#180CFF",
