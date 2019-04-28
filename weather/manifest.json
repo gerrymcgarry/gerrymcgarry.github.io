@@ -1,0 +1,20 @@
+{
+  "name": "Weather",
+  "short_name": "Weather",
+  "lang": "en-GB",
+  "start_url": "https://gerrymcgarry.github.io/weather/",
+  "display": "fullscreen",
+  "theme_color": "#3F8736",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
