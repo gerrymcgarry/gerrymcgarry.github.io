@@ -20,6 +20,8 @@ function initMap() {
         zoom: 14,
         center: markers[0].coords
     });
+    
+    var infoWindow = new google.maps.InfoWindow;
 
     var src = 'https://gerrymcgarry.github.io/tfl-rail/tfl.kml';
     var kmlLayer = new google.maps.KmlLayer(src, {
@@ -40,6 +42,7 @@ function initMap() {
         preserveViewport: false,
         map: map
       });
+
       if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function(position) {
           var pos = {
@@ -58,6 +61,7 @@ function initMap() {
         // Browser doesn't support Geolocation
         handleLocationError(false, infoWindow, map.getCenter());
       }
+
     //   tflLayer.addListener('click', function(event) {
     //       var content = event.featureData.infoWindowHtml;
     //       var testimonial = document.getElementById('capture');
