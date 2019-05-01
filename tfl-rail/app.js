@@ -20,7 +20,7 @@ function initMap() {
         zoom: 14,
         center: markers[0].coords
     });
-    
+
     var infoWindow = new google.maps.InfoWindow;
 
     var src = 'https://gerrymcgarry.github.io/tfl-rail/tfl.kml';
@@ -93,3 +93,11 @@ function initMap() {
         }
     }
 }
+
+function handleLocationError(browserHasGeolocation, infoWindow, pos) {
+    infoWindow.setPosition(pos);
+    infoWindow.setContent(browserHasGeolocation ?
+                          'Error: The Geolocation service failed.' :
+                          'Error: Your browser doesn\'t support geolocation.');
+    infoWindow.open(map);
+  }
