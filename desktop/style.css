@@ -42,3 +42,15 @@ a {
     font-family: "Helvetica";
     text-decoration: none;
 }
+
+@media only screen  and (min-device-width : 768px) {
+    body {
+        text-align: center;
+        margin: 0px;
+        justify-content: center;
+        background-image: url("backgrund.jpg");
+        background-size: cover;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+}
