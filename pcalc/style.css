@@ -18,6 +18,9 @@ body {
     overflow-y: hidden;
 }
   
+.page {
+    background-color: white;
+}
 .wrapper {
     display: grid;
     grid-template-columns: 100vw;

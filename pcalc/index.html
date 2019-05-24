@@ -21,68 +21,70 @@
         <link rel="apple-touch-icon" type="image/png" sizes="512x512" href="assets/calc-512.png"> 
     </head>
     <body>
-        <div class="wrapper">
-            <!-- <div class="box header-block">
-                
-            </div> -->
-            <div class="box screen-block">
-                <div class="screen">
-                    <h1 id="display">0</h1>
+        <div class="page">
+            <div class="wrapper">
+                <!-- <div class="box header-block">
+                    
+                </div> -->
+                <div class="box screen-block">
+                    <div class="screen">
+                        <h1 id="display">0</h1>
+                    </div>
+                    <h2>Pocket Calculator</h2>
+                <!-- </div>
+                <div class="box fun-buttons-block"> -->
+                    <button type="button" class="small function" id = "memoryRecall">MR</button>
+                    <button type="button" class="small function" id = "memoryPlus">M+</button>
+                    <button type="button" class="small function" id = "memoryMinus">M-</button>
+                    <button type="button" class="small function" id = "memoryClear">MC</button>
+                    <button type="button" class="small function" id = "play">K</button>
+
+                    <button type="button" class="small function" id = "sin">SIN</button>
+                    <button type="button" class="small function" id = "cos">COS</button>
+                    <button type="button" class="small function" id = "tan">TAN</button>
+                    <button type="button" class="small function" id = "log">LOG</button>
+                    <button type="button" class="small function" id = "sqr">SQR</button>
+
+                    <button type="button" class="small function" id = "asin">ASIN</button>
+                    <button type="button" class="small function" id = "acos">ACOS</button>
+                    <button type="button" class="small function" id = "atan">ATAN</button>
+                    <button type="button" class="small function" id = "ln">LN</button>
+                    <button type="button" class="small function" id = "fac">N!</button>
+
+                    <button type="button" class="small operator" id = "pow">POW</button>
+                    <button type="button" class="small operator" id = "mod">MOD</button>
+                    <button type="button" class="small function" id = "exp">EXP</button>
+                    <button type="button" class="small function" id = "pi">PI</button>
+                    <button type="button" class="small function" id = "percent">%</button>
                 </div>
-                <h2>Pocket Calculator</h2>
-            <!-- </div>
-            <div class="box fun-buttons-block"> -->
-                <button type="button" class="small function" id = "memoryRecall">MR</button>
-                <button type="button" class="small function" id = "memoryPlus">M+</button>
-                <button type="button" class="small function" id = "memoryMinus">M-</button>
-                <button type="button" class="small function" id = "memoryClear">MC</button>
-                <button type="button" class="small function" id = "play">K</button>
+                <div class="box num-buttons-block">
+                    <button type="button" class="large edit" id = "backspace">⌫</button>
+                    <button type="button" class="large function" id = "clear">C</button>
+                    <button type="button" class="large function" id = "clearAll">AC</button>
+                    <button type="button" class="large operator" id = "multiply">X</button>
 
-                <button type="button" class="small function" id = "sin">SIN</button>
-                <button type="button" class="small function" id = "cos">COS</button>
-                <button type="button" class="small function" id = "tan">TAN</button>
-                <button type="button" class="small function" id = "log">LOG</button>
-                <button type="button" class="small function" id = "sqr">SQR</button>
+                    <button type="button" class="number">7</button>
+                    <button type="button" class="number">8</button>
+                    <button type="button" class="number">9</button>
+                    <button type="button" class="large operator" id = "divide">/</button>
+                    
+                    <button type="button" class="number">4</button>
+                    <button type="button" class="number">5</button>
+                    <button type="button" class="number">6</button>
+                    <button type="button" class="large operator" id = "subtract">-</button>
+                    
+                    <button type="button" class="number">1</button>
+                    <button type="button" class="number">2</button>
+                    <button type="button" class="number">3</button>
+                    <button type="button" class="large operator" id = "add">+</button>  
 
-                <button type="button" class="small function" id = "asin">ASIN</button>
-                <button type="button" class="small function" id = "acos">ACOS</button>
-                <button type="button" class="small function" id = "atan">ATAN</button>
-                <button type="button" class="small function" id = "ln">LN</button>
-                <button type="button" class="small function" id = "fac">N!</button>
-
-                <button type="button" class="small operator" id = "pow">POW</button>
-                <button type="button" class="small operator" id = "mod">MOD</button>
-                <button type="button" class="small function" id = "exp">EXP</button>
-                <button type="button" class="small function" id = "pi">PI</button>
-                <button type="button" class="small function" id = "percent">%</button>
-            </div>
-            <div class="box num-buttons-block">
-                <button type="button" class="large edit" id = "backspace">⌫</button>
-                <button type="button" class="large function" id = "clear">C</button>
-                <button type="button" class="large function" id = "clearAll">AC</button>
-                <button type="button" class="large operator" id = "multiply">X</button>
-
-                <button type="button" class="number">7</button>
-                <button type="button" class="number">8</button>
-                <button type="button" class="number">9</button>
-                <button type="button" class="large operator" id = "divide">/</button>
-                
-                <button type="button" class="number">4</button>
-                <button type="button" class="number">5</button>
-                <button type="button" class="number">6</button>
-                <button type="button" class="large operator" id = "subtract">-</button>
-                 
-                <button type="button" class="number">1</button>
-                <button type="button" class="number">2</button>
-                <button type="button" class="number">3</button>
-                <button type="button" class="large operator" id = "add">+</button>  
-
-                <button type="button" class="number">0</button>
-                <button type="button" class="number" id = "point">.</button>
-                <button type="button" class="large edit" id = "plusMinus">+/-</button>
-                <button type="button" class="equals edit" id = "equals">=</button> 
-            </div>
-        </div>            
+                    <button type="button" class="number">0</button>
+                    <button type="button" class="number" id = "point">.</button>
+                    <button type="button" class="large edit" id = "plusMinus">+/-</button>
+                    <button type="button" class="equals edit" id = "equals">=</button> 
+                </div>
+            </div>            
+        </div>
         <audio id="audio" src="assets/kraftwerk.mp3" ></audio>
         <script src ="app.js"></script>
     </body>
